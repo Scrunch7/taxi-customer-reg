@@ -1,0 +1,40 @@
+﻿  CustomerRegistration.cpp
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(29,2): warning C4091: 'extern ': ignored on left of 'paymentMethod' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(37,2): warning C4091: 'extern ': ignored on left of 'Customer' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(58,2): warning C4091: 'extern ': ignored on left of 'Driver' when no variable is declared
+  DriverRegistration.cpp
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(29,2): warning C4091: 'extern ': ignored on left of 'paymentMethod' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(37,2): warning C4091: 'extern ': ignored on left of 'Customer' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(58,2): warning C4091: 'extern ': ignored on left of 'Driver' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\DriverRegistration.cpp(56,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\DriverRegistration.cpp(40,6): warning C4101: 'randomNumber': unreferenced local variable
+  Functions.cpp
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(29,2): warning C4091: 'extern ': ignored on left of 'paymentMethod' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(37,2): warning C4091: 'extern ': ignored on left of 'Customer' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(58,2): warning C4091: 'extern ': ignored on left of 'Driver' when no variable is declared
+  Landing.cpp
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(29,2): warning C4091: 'extern ': ignored on left of 'paymentMethod' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(37,2): warning C4091: 'extern ': ignored on left of 'Customer' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(58,2): warning C4091: 'extern ': ignored on left of 'Driver' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Landing.cpp(7,1): warning C4624: 'User': destructor was implicitly defined as deleted
+  Taxi_Service_Offiicial_2.cpp
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(29,2): warning C4091: 'extern ': ignored on left of 'paymentMethod' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(37,2): warning C4091: 'extern ': ignored on left of 'Customer' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(58,2): warning C4091: 'extern ': ignored on left of 'Driver' when no variable is declared
+  TripBooking.cpp
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(29,2): warning C4091: 'extern ': ignored on left of 'paymentMethod' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(37,2): warning C4091: 'extern ': ignored on left of 'Customer' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(58,2): warning C4091: 'extern ': ignored on left of 'Driver' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\TripBooking.cpp(114,17): warning C4101: 'confirm': unreferenced local variable
+  UserDriverLoggedIn.cpp
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(29,2): warning C4091: 'extern ': ignored on left of 'paymentMethod' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(37,2): warning C4091: 'extern ': ignored on left of 'Customer' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\Functions.h(58,2): warning C4091: 'extern ': ignored on left of 'Driver' when no variable is declared
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\UserDriverLoggedIn.cpp(75,17): warning C4101: 'menuOption': unreferenced local variable
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\UserDriverLoggedIn.cpp(93,14): warning C4101: 'menuOption': unreferenced local variable
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\UserDriverLoggedIn.cpp(103,7): warning C4101: 'availableState': unreferenced local variable
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\UserDriverLoggedIn.cpp(151,14): warning C4101: 'menuOption': unreferenced local variable
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\UserDriverLoggedIn.cpp(219,14): warning C4101: 'menuOption': unreferenced local variable
+C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\Taxi Project\UserDriverLoggedIn.cpp(248,15): warning C4101: 'accountType': unreferenced local variable
+  Generating Code...
+  Taxi Project.vcxproj -> C:\Users\Taehg\OneDrive\Documents\GitHub\Taxi_Service_Official_2\Taxi Project\x64\Debug\Taxi Project.exe
